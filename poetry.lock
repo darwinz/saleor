@@ -3036,14 +3036,14 @@ xpath = ["lxml (>=4.4.0)"]
 
 [[package]]
 name = "phonenumberslite"
-version = "8.13.4"
+version = "8.13.5"
 description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "phonenumberslite-8.13.4-py2.py3-none-any.whl", hash = "sha256:469eb263160e243aa02fff643502698f99e77bcb6478e9aaa7115838006be122"},
-    {file = "phonenumberslite-8.13.4.tar.gz", hash = "sha256:44cbb13581122164cd8a83b40f12db854277e8a5f9c6e22bd8dc2d8aa98e3260"},
+    {file = "phonenumberslite-8.13.5-py2.py3-none-any.whl", hash = "sha256:57a6825d729ec2ee28eb7d3a171837adad386defb6ad10593a2ddd405afe569c"},
+    {file = "phonenumberslite-8.13.5.tar.gz", hash = "sha256:f143456744422398a26537b8815fb9650f187420a346f4198b2bf1ed6019e8ac"},
 ]
 
 [[package]]
@@ -5071,5 +5071,5 @@ test = ["pytest"]
 
 [metadata]
 lock-version = "2.0"
-  python-versions = "~3.9"
-content-hash = "9716224dc32607ca9c335f402716863f0f48f2798599f7b42216e64371e7f908"
+python-versions = "~3.9"
+content-hash = "b427088b2f5e7a5306668803af41c6d68270d17c3c29f36e7c579990e948ce45"
